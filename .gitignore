@@ -1,0 +1,8 @@
+node_modules/
+.runtimeconfig.json
+*.log
+.DS_Store
+firebase-debug.log
+firebase-debug.*.log
+.vscode/
+.idea/
